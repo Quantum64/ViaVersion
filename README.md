@@ -1,3 +1,5 @@
+# DO NOT ASK ANYONE FOR SUPPORT WITH THIS VERSION
+
 # ViaVersion - Spigot, Sponge, BungeeCord, Velocity
 
 [![Latest Release](https://img.shields.io/github/v/release/ViaVersion/ViaVersion)](https://viaversion.com)
